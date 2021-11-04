@@ -2,7 +2,7 @@
 An appointment management tool built using Java </br>
 
 ## File Overview </br>
-/C195-Master/src/C195Master </br>
+/C195-Master/src/C195Master/ </br>
 
  C195Master.java - Main application file.
  
@@ -27,12 +27,16 @@ An appointment management tool built using Java </br>
 
 ## Customers Screen </br>
  ![alt text](https://github.com/Aaron-Artz/Appointment-Manager/blob/main/Appointment-Manager-Pictures/CustomerScreen.PNG?raw=true)</br>
+ Available customers are populated from the databse into the table on the left. Selecting a customer and pressing the modify button will populate the fields on the right to be edited by the user.
 
 ## Add Appointment Screen </br>
  ![alt text](https://github.com/Aaron-Artz/Appointment-Manager/blob/main/Appointment-Manager-Pictures/AddAppointmentScreen.PNG?raw=true)</br>
+ To add an appointment you must first select a customer from the left table. If the customer doesn't exist, the user can select New Customer which will take them to the customers screen. Once a customer it selected the name field will be auto populated and the user can fill out the remaining appointment information. The exceptions.java utility will ensure all fields are filled with only appropriet information.
 
 ## Modify Appointment Screen </br>
  ![alt text](https://github.com/Aaron-Artz/Appointment-Manager/blob/main/Appointment-Manager-Pictures/ModifyAppointmentScreen.PNG?raw=true)</br>
+The modify appointment screen is similar to the add appointment screen, only there in no customer information table. This is designed this to prevent users from accidently changing the customer tied to the appointment.
 
 ## Reports Screen </br>
  ![alt text](https://github.com/Aaron-Artz/Appointment-Manager/blob/main/Appointment-Manager-Pictures/ReportsScreen.PNG?raw=true)</br>
+ The reports screen has three auto-generated reports. The first is the amount of appointments by type. The second, in an employee schedule based off of appointment times. and the last is the amount of appointments by customer.
