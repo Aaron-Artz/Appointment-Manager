@@ -2,6 +2,20 @@
 An appointment management tool built using Java </br>
 
 ## File Overview </br>
+/C195-Master/src/C195Master </br>
+
+ C195Master.java - Main application file.
+ 
+ /Controller - Contains a mixture of .fxml and .java files which configure the user interface of the application.
+ 
+ /LanguageResources - Contains language packages to translate the login page to either english or spanish
+ 
+ /Model - 
+ 
+ /Utilities
+ 
+ /drivers
+ 
 
 ## Login Screen </br>
  ![alt text](https://github.com/Aaron-Artz/Appointment-Manager/blob/main/Appointment-Manager-Pictures/LoginScreen.PNG?raw=true)</br>
