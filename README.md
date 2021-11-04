@@ -10,11 +10,11 @@ An appointment management tool built using Java </br>
  
  /LanguageResources - Contains language packages to translate the login page to either english or spanish
  
- /Model - 
+ /Model - Contains files to create Java objects.
  
- /Utilities
+ /Utilities - Contains the java file to connect to establish a database connection as well as a file to create expections for incorrect text field information.
  
- /drivers
+ /drivers - Contains the drivers needed to connect to the database.
  
 
 ## Login Screen </br>
