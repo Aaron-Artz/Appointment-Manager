@@ -19,9 +19,11 @@ An appointment management tool built using Java </br>
 
 ## Login Screen </br>
  ![alt text](https://github.com/Aaron-Artz/Appointment-Manager/blob/main/Appointment-Manager-Pictures/LoginScreen.PNG?raw=true)</br>
-
+ The login screen validates that the username and password exist in the database. It will also translate the text to egnlish or spanish based on the users location.
+ 
 ## Main Screen </br>
  ![alt text](https://github.com/Aaron-Artz/Appointment-Manager/blob/main/Appointment-Manager-Pictures/MainScreen.PNG?raw=true)</br>
+ The appointments will be populated in the table either weekly or monthly depending on the radio button selected. The times of the appointment are adjusted to the users current timezone. users can add, modify or delete appointments using the bottom buttons and track reports and customers using the right buttons.
 
 ## Customers Screen </br>
  ![alt text](https://github.com/Aaron-Artz/Appointment-Manager/blob/main/Appointment-Manager-Pictures/CustomerScreen.PNG?raw=true)</br>
