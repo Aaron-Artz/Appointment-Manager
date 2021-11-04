@@ -1,0 +1,6 @@
+Sep 01, 2020 11:56:27 AM C195Master.Controller.LoginScreenController loginButtonAction
+INFO: User ID: 1 User: test
+Sep 01, 2020 11:57:43 AM C195Master.Controller.LoginScreenController loginButtonAction
+INFO: User ID: 1 User: test
+Sep 01, 2020 11:59:20 AM C195Master.Controller.LoginScreenController loginButtonAction
+INFO: User ID: 1 User: test
